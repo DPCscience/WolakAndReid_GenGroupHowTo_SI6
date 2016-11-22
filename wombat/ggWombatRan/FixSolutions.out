@@ -1,0 +1,14 @@
+======= Version 12-06-2015 ======================================= **KM** ======================================
+
+        Program WOMBAT: GLS solutions for fixed effects
+================================================================================================================
+
+ WOMBATs genetic groups (random genetic group effects with Q from `nadiv`)  
+
+
+ Covariables for trait no.       1   "p"
+     Covariable                     Reg.coeff    Solution
+  1  f(1)                                   1    0.663984    
+  
+ **  marks effects which have been set to zero for the analysis 
+======== end of file ============================20-09-2016==========13:53======================================

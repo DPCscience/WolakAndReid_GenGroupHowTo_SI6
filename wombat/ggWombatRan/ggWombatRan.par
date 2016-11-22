@@ -1,0 +1,31 @@
+COM WOMBATs genetic groups (random genetic group effects with Q from `nadiv`)
+DAT ../ggTutorial.d
+  id 6000
+  p
+  is 2
+  gen 15
+  f
+  foc0
+  g1
+end
+ANAL UNI
+MODEL
+  COV   f(1)
+  SUBJ  id
+  RAN   id     GIN
+  RAN   ggrps  IDE
+  TR    p
+END
+VAR id 1
+ 0.5
+VAR ggrps 1
+ 1.0
+VAR error 1
+ 0.5
+SPECIAL
+  COVZER f(1) FIT
+END
+SPECIAL
+  GENGROUPS ggrps 2 10000
+END
+

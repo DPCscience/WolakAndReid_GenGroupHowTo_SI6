@@ -1,0 +1,57 @@
+======= Version 12-06-2015 ======================================= **KM** ====
+
+        Program WOMBAT: Summary of Pedigree Information
+==============================================================================
+
+ Explicit genetic groups fitted as Fixed regressions                        
+
+ Analysis type          :   "UNI"
+ Data file              :   "../ggTutorial.d"
+ Pedigree file          :   "../wombatPed.d"
+ Parameter file         :   "ggReg.par"
+  
+ No. of animal IDs in data file =           =      6000
+ No. of animal IDs in total     =           =      6000
+
+*****Pedigree Structure for random effect :    1  ****************************
+ Original no. of animals                    =      6000
+ No. of animals after pruning               =      6000
+ ... proportion (%) remaining               =     100.0
+
+ No. of levels w/out records                =         0
+ No. of levels with records                 =      6000  100.0%
+  ...  1 record(s)                          =      6000  100.0%
+  
+ No. of animals w/out offspring             =      2676   44.6%
+ No. of animals with offspring              =      3324   55.4%
+  ... and records                           =      3324   55.4%
+  
+ No. of animals with unknown sire           =       920
+ No. of animals with unknown dam            =       920
+ No. of animals with both parents unknown   =       920
+ No. of animals with records                =
+  ... and unknown sire                      =       920
+  ... and unknown dam                       =       920
+  ... and both parents unknown              =       920
+ No. of sires                               =      1676
+  ... with progeny in the data              =      1676
+  ... with records & progeny in data        =      1676
+ No. of dams                                =      1648
+  ... with progeny in the data              =      1648
+  ... with records & progeny in data        =      1648
+
+ No. of animals with known/unpruned grand-parents
+  ... with paternal grandsire               =      4720
+  ... with paternal granddam                =      4720
+  ... with maternal grandsire               =      3812
+  ... with maternal granddam                =      3812
+
+Inbreeding coefficients for random effect   1 computed
+No. of inbred animals           =    2792
+Average inbreeding coefficient  =  0.3644 (in %)
+... amongst inbred animals      =  0.7830 (in %)
+ Random effect no.              =   1  "id"  NRM
+ No. of levels                  =        6000
+ Log determinant calculated     =   -3539.019
+ No. of elements in NRM inverse =       18720
+======== end of file ============================20-09-2016==========13:52====

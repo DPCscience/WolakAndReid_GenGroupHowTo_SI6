@@ -1,0 +1,57 @@
+======= Version 12-06-2015 ======================================= **KM** ====
+
+        Program WOMBAT: Estimates of covariance components
+==============================================================================
+
+ Explicit genetic groups fitted as Fixed regressions                        
+
+ Analysis type          :   "UNI"
+ Data file              :   "../ggTutorial.d"
+ Pedigree file          :   "../wombatPed.d"
+ Parameter file         :   "ggReg.par"
+  
+ No. of traits          =      1                     p
+ No. of records         =   6000          6000
+ No. of parameters      =      2
+ Maximum log L          =         -4695.300
+ -1/2 AIC & AICC        =         -4697.300         -4697.301
+ -1/2 BIC               =         -4703.999    "Penalty factor" =   4.350
+ Eigenvalues of AI matrix
+     6285.64         870.529    
+
+ Parameter estimates with approx. sampling erors
+   1   CHOL Z 1 1             0.992014          0.198578E-01          
+   2   CHOL A 1 1              1.03856          0.302240E-01          
+
+ Convergence criteria for last 3 iterates
+ Change in log likelihood    =    2.792946    0.002692    0.000000
+ Change in parameter vector  =    0.021866    0.000757    0.000002
+ Norm of gradient vector     =    191.2616      5.6673      0.0066
+ Newton decrement            =     -5.5121     -0.0054     -0.0000
+
+***** Estimates of residual covariances   ************************************
+      Order of fit         =       1
+ Covariance matrix
+   1    0.98409    
+ Matrix of correlations and variance ratios
+   1      0.4771
+ Covariances & correlations with approximate sampling errors
+   1  COVS Z 1 1       0.984091       0.393984E-01   vrat     0.477   0.023
+
+***** Estimates for RE  1   "id"   *******************************************
+      No. of levels        =    6000
+      Covariance structure =     NRM
+      Order of fit         =       1
+ Covariance matrix
+   1     1.0786    
+ Matrix of correlations and variance ratios
+   1      0.5229
+ Covariances & correlations with approximate sampling errors
+   2  COVS A 1 1        1.07862       0.627791E-01   vrat     0.523   0.023
+
+***** Estimates of phenotypic covariances  ***********************************
+ Covariance matrix
+   1     2.0627    
+ Covariances & correlations with approximate sampling errors
+   3  COVS T 1 1        2.06271       0.449591E-01
+======== end of file ============================20-09-2016==========13:52====

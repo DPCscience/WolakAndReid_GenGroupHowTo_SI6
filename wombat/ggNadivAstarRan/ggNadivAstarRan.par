@@ -1,0 +1,25 @@
+COM Random genetic groups fitted implicitly using Astar from nadiv
+DAT ../ggTutorial.d
+  id 6002
+  p
+  is 2
+  gen 15
+  f
+  foc0
+  g1
+end
+ANAL UNI
+MODEL
+ COV  f(1)
+ RAN  id    GIN
+ TR   p
+END
+VAR id 1
+ 0.5
+VAR error 1
+ 0.5
+SPECIAL
+  COVZER f(1) FIT
+END
+
+

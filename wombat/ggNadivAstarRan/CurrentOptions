@@ -1,0 +1,27 @@
+======= Version 12-06-2015 ======================================= **KM** ====
+
+        Program WOMBAT: Current Run options
+==============================================================================
+
+Read from command line   :   ggNadivAstarRan.par
+  
+ reconstruct     T
+ logdiagonals    F F F F F F F F
+ reorder         T
+ emalgorithm     T
+ pxem            T
+ pxai            T
+ emai            F
+ strict_ai       T
+ optim_ai        F
+ mmmposdef       F
+ order_type                0
+ search_type               6
+ continue        F
+ verbose         F
+ pxem_its                  3
+ aireml_its                0
+ aiconv_like      5.000000000000000E-004
+ aiconv_norm      1.000000000000000E-004
+ parameter file: "ggNadivAstarRan.par"
+======== end of file ============================20-09-2016==========13:52====

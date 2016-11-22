@@ -1,0 +1,13 @@
+ This file reports details concerning the calculation and testing of the
+           Wald F-statistics reported in the .asr file.
+
+ Table showing the reduction in the numerator degrees of freedom
+                    for each term as higher terms are absorbed.
+  Source                   2  1
+  1 mu                     1  1
+  2 f                      1
+
+     Incremental Wald F statistics - calculation of Denominator degrees of freedom
+ Source                Size NumDF   F-value  Lambda*F    Lambda   DenDF
+ mu                       1     1   84.6801   84.6801    1.0000  590.0499
+ f                        1     1    0.1319    0.1319    1.0000 5264.2460

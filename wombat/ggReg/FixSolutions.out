@@ -1,0 +1,18 @@
+======= Version 12-06-2015 ======================================= **KM** ======================================
+
+        Program WOMBAT: GLS solutions for fixed effects
+================================================================================================================
+
+ Explicit genetic groups fitted as Fixed regressions                        
+
+
+ Covariables for trait no.       1   "p"
+     Covariable                     Reg.coeff    Solution
+  1  f(1)                                   1     1.05369    
+     Covariable                     Reg.coeff    Solution
+  2  g1(1)                                  1     3.09763    
+     Covariable                     Reg.coeff    Solution
+  3  foc0(1)                                1     0.00000    
+  
+ **  marks effects which have been set to zero for the analysis 
+======== end of file ============================20-09-2016==========13:52======================================

@@ -1,0 +1,23 @@
+ Date 20-09-2016  Time 13:53:18
+ "WOMBAT" started    1777998.43800000     
+ Date 20-09-2016  Time 13:53:18
+ Read run option from command line: ggWombatRan.par
+ SPECIAL: Fit "explicit" genetic groups                                                                                 
+ Random effect in model      : "ggrps"                                                                                  
+ No. of groups given         :           2                                                                              
+ Scale factor for proportions:   10000.0000000000                                                                       
+ "Animal" effect corresponding to genetic groups                                                                        
+ set to "id" GIN                                                                                                        
+ Start of "GENMMD": nrow=     6003                                                                                      
+ End of "GENMMD": nrow =     6003  nofsub =         80678                                                               
+ End of "SMBFCT": maxsub                    48245             6004                                                      
+                  maxlnz                   278270                                                                       
+ Date 20-09-2016  Time 13:53:18
+ "WOMBAT": Pre-analysis steps completed
+ Few parameters --> switching to AI-REML                                                                                
+ No. of rows =   6004  No. of super-nodes =   5189  Max. size =    538                                                  
+ Date 20-09-2016  Time 13:53:18
+ Starting AI-REML Iterates -- log L =  -7448.51686139235     
+ Date 20-09-2016  Time 13:53:20
+ Total time used (secs): CPU =           4  System =           1
+ "WOMBAT" has finished !

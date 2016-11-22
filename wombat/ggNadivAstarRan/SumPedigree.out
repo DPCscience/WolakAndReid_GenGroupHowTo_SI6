@@ -1,0 +1,17 @@
+======= Version 12-06-2015 ======================================= **KM** ====
+
+        Program WOMBAT: Summary of Information about "Relationship" matrices
+==============================================================================
+
+ Random genetic groups fitted implicitly using Astar from nadiv             
+
+ Analysis type          :   "UNI"
+ Data file              :   "../ggTutorial.d"
+ Parameter file         :   "ggNadivAstarRan.par"
+  
+ Random effect no.              =   1  "id"  GIN
+ No. of levels                  =        6002
+ Log determinant                =   -3534.414
+ No. of elements in GIN inverse =       19642
+  
+======== end of file ============================20-09-2016==========13:52====

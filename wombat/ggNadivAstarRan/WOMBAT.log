@@ -1,0 +1,17 @@
+ Date 20-09-2016  Time 13:52:15
+ "WOMBAT" started    1777935.55100000     
+ Date 20-09-2016  Time 13:52:15
+ Read run option from command line: ggNadivAstarRan.par
+ Start of "GENMMD": nrow=     6003                                                                                      
+ End of "GENMMD": nrow =     6003  nofsub =         73506                                                               
+ End of "SMBFCT": maxsub                    41680             6004                                                      
+                  maxlnz                   272074                                                                       
+ Date 20-09-2016  Time 13:52:15
+ "WOMBAT": Pre-analysis steps completed
+ Few parameters --> switching to AI-REML                                                                                
+ No. of rows =   6004  No. of super-nodes =   5208  Max. size =    519                                                  
+ Date 20-09-2016  Time 13:52:15
+ Starting AI-REML Iterates -- log L =  -5678.56584372201     
+ Date 20-09-2016  Time 13:52:17
+ Total time used (secs): CPU =           4  System =           1
+ "WOMBAT" has finished !

@@ -1,0 +1,22 @@
+======= Version 12-06-2015 ======================================= **KM** ====
+
+        Program WOMBAT: Summary of information from Set-up step
+==============================================================================
+
+ WOMBATs genetic groups (random genetic group effects with Q from `nadiv`)  
+
+ Analysis type          :   "UNI"
+ Data file              :   "../ggTutorial.d"
+ Parameter file         :   "ggWombatRan.par"
+  
+ No. of traits          =   1
+                      nrec       mean         sdev          min.         max.
+   1  "p"              6000    21.3065      1.73300       15.8432      28.6509    
+
+ Covariables
+   1  "f(1)"           6000   0.364371E-02 0.979744E-02   0.00000     0.130997    
+
+ Random effects        nlev
+   1  "id"             6000    GIN
+   2  "ggrps"             2    IDE
+======== end of file ============================20-09-2016==========13:53====
