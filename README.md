@@ -15,7 +15,7 @@ The manuscript and SuppInfo were both thoroughly peer reviewed, however, these p
 
    - **WolakAndReid_GenGroupHowTo_SuppInfo.pdf** is the original SuppInfo accompanying the journal article.
 
-   - Folders **asreml**, **ASRemlR**, **MCMCglmm*, and **wombat** contain the model/outputs for each of these software programs.
+   - Folders **asreml**, **ASRemlR**, **MCMCglmm**, and **wombat** contain the model/outputs for each of these software programs.
 
    - **MCMCglmm_modelDiet.R** is how I compressed the original `MCMCglmm` saved model objects (available from [dryad](http://www.datadryad.org/resource/doi:10.5061/dryad.jf7cr))
 
