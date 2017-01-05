@@ -1,6 +1,6 @@
 # How to include genetic groups in quantitative genetic animal models
 
-This repository contains a version controlled, editable, and commentable [Appendix S6](https://github.com/matthewwolak/WolakAndReid_GenGroupHowTo_SI6/blob/master/WolakAndReid_GenGroupHowTo_SI6.md) of the Supporting Information to *Accounting for genetic differences among unknown parents in microevolutionary studies: How to include genetic groups in quantitative genetic animal models* ([Wolak & Reid. 2017. Journal of Animal Ecology](http://onlinelibrary.wiley.com/doi/10.1111/1365-2656.12597/full)). Appendix S6 is the heart of the tutorial part of the Supporting Information (SuppInfo), containing the code and discussion of just how to practically go about fitting the models discussed in the manuscript.
+This repository contains a version controlled, editable, and commentable [Appendix S6](https://github.com/matthewwolak/WolakAndReid_GenGroupHowTo_SI6/blob/master/WolakAndReid_GenGroupHowTo_SI6.md) of the Supporting Information to *Accounting for genetic differences among unknown parents in microevolutionary studies: How to include genetic groups in quantitative genetic animal models* (Wolak & Reid. 2017. Journal of Animal Ecology 86:7-20 [pdf](https://github.com/matthewwolak/WolakAndReid_GenGroupHowTo_SI6/blob/master/Wolak2017HowToGeneticGroupsQGAnimalModels.pdf) [URL](http://onlinelibrary.wiley.com/doi/10.1111/1365-2656.12597/full)). Appendix S6 is the heart of the tutorial part of the Supporting Information (SuppInfo), containing the code and discussion of just how to practically go about fitting the models discussed in the manuscript.
 
 The manuscript and SuppInfo were both thoroughly peer reviewed, however, these published versions represent a snapshot in time for the methods discussed. Methods and code are never static, particularly as software changes over time. This repository provides an alternative resource that can be changed while also tracking and keeping a history of every change made along the way.
 
@@ -15,6 +15,8 @@ The manuscript and SuppInfo were both thoroughly peer reviewed, however, these p
 
    - **WolakAndReid_GenGroupHowTo_SuppInfo.pdf** is the original SuppInfo accompanying the journal article.
 
+   - **Wolak2017HowToGeneticGroupsQGAnimalModels.pdf** is the original published journal article.
+
    - Folders **asreml**, **ASRemlR**, **MCMCglmm**, and **wombat** contain the model/outputs for each of these software programs.
 
    - **MCMCglmm_modelDiet.R** is how I compressed the original `MCMCglmm` saved model objects (available from [dryad](http://www.datadryad.org/resource/doi:10.5061/dryad.jf7cr))
@@ -22,11 +24,12 @@ The manuscript and SuppInfo were both thoroughly peer reviewed, however, these p
 
 ## Changes
 
-For ease of reference, significant changes to be noted below. Tag with commits or issues, where appropriate.
+For ease of reference, an overview of significant changes to be noted below. Tag with commits or issues, where appropriate.
 
 ### Major
 
 ### Minor
+    - 5 January 2017: add pdf of printed version for the main journal article
     - 22 November 2016: Initialize files for GitHub
       - Formatting to remove LaTex etc. within the `.Rmd` file that were used to create a nice looking *pdf*
       - Compress `MCMCglmm` models (see *./MCMCglmm_modelDiet.R*)
